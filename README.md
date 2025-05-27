@@ -77,4 +77,5 @@ MIT © 2025 Sumaya Nasser Alhashmi
 
 📦 Model Repositories:
 - [🔗 Player Position Classifier](https://github.com/ymu4/player-position-classifier)
-- [🔗 Match Result Predictor](https://github.com/ymu4/match-result-predictor)
+- [🔗 Match Result Predictor](https://github.com/ymu4/football-match-outcome-model-predictor
+)
