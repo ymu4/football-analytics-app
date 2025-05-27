@@ -3,7 +3,8 @@
 This interactive Streamlit application combines two machine learning models into one seamless interface:
 
 1. 🔍 [Player Position Classifier](https://github.com/ymu4/player-position-classifier)  
-2. 🧠 [Match Result Predictor](https://github.com/ymu4/match-result-predictor)
+2. 🧠 [Match Result Predictor](https://github.com/ymu4/football-match-outcome-model-predictor
+)
 
 It allows users to upload, analyze, and predict football outcomes and player roles using real statistics.
 
